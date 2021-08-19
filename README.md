@@ -4,7 +4,7 @@
 [![build status][travis-image]][travis-url]
 [![coverage][codecov-image]][codecov-url]
 
-Template for typescript node app.
+Template for typescript node app
 
 Includes:
 
